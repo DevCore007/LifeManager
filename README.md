@@ -13,7 +13,7 @@ Somos uma equipe apaixonada por tecnologia e inovação, desenvolvendo soluçõe
 | 👩‍💻 **Wagner Colares** | Desenvolvedora Back-End | [luizwagner169@gmail.com](luizwagner169@gmail.com) | [github.com/colarin](https://github.com/colarin) |
 | 🧑‍🎨 **José Satiro** | Desenvolvedor Front-End / UI Designer | [satirojose492@gmail.com](satirojose492@gmail.com) | [github.com/SatiroDev](https://github.com/SatiroDev) |
 | 🧠 **Alisson Sousa** | Analista de Sistemas | [sousa.alisson07@aluno.ifce.edu.br](sousa.alisson07@aluno.ifce.edu.br) | [github.com/AlissonSco](https://github.com/AlissonSco) |
-| 🧑‍🔬 **Willyam Andrade** | Testador / QA | [lucas.fernandes@technova.com](mailto:lucas.fernandes@technova.com) | [github.com/willyamandrade](https://github.com/willyamandrade) |
+| 🧑‍🔬 **Willyam Andrade** | Testador / QA | [andrade.medeiros10@aluno.ifce.edu.br](andrade.medeiros10@aluno.ifce.edu.br) | [github.com/willyamandrade](https://github.com/willyamandrade) |
 
 ---
 
