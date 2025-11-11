@@ -9,11 +9,11 @@ Somos uma equipe apaixonada por tecnologia e inovação, desenvolvendo soluçõe
 
 | 🧑 Integrante | 💼 Função | 📧 E-mail | 🐙 GitHub |
 |:--------------|:----------|:-----------|:------------|
-| 👨‍💼 **João Silva** | Líder do Projeto / Arquiteto de Software | [joao.silva@technova.com](mailto:joao.silva@technova.com) | [github.com/joaosilva](https://github.com/joaosilva) |
-| 👩‍💻 **Maria Souza** | Desenvolvedora Back-End | [maria.souza@technova.com](mailto:maria.souza@technova.com) | [github.com/mariasouza](https://github.com/mariasouza) |
-| 🧑‍🎨 **Carlos Pereira** | Desenvolvedor Front-End / UI Designer | [carlos.pereira@technova.com](mailto:carlos.pereira@technova.com) | [github.com/carlospereira](https://github.com/carlospereira) |
-| 🧠 **Ana Oliveira** | Analista de Sistemas | [ana.oliveira@technova.com](mailto:ana.oliveira@technova.com) | [github.com/anaoliveira](https://github.com/anaoliveira) |
-| 🧑‍🔬 **Lucas Fernandes** | Testador / QA | [lucas.fernandes@technova.com](mailto:lucas.fernandes@technova.com) | [github.com/lucasfernandes](https://github.com/lucasfernandes) |
+| 👨‍💼 **Arthur Herbster** | Líder do Projeto / Arquiteto de Software | [vogel.herbster09@aluno.ifce.edu.br](vogel.herbster09@aluno.ifce.edu.br) | [github.com/HerbsterDev](https://github.com/HerbsterDev) |
+| 👩‍💻 **Wagner Colares** | Desenvolvedora Back-End | [luizwagner169@gmail.com](luizwagner169@gmail.com) | [github.com/colarin](https://github.com/colarin) |
+| 🧑‍🎨 **José Satiro** | Desenvolvedor Front-End / UI Designer | [satirojose492@gmail.com](satirojose492@gmail.com) | [github.com/SatiroDev](https://github.com/SatiroDev) |
+| 🧠 **Alisson Sousa** | Analista de Sistemas | [sousa.alisson07@aluno.ifce.edu.br](sousa.alisson07@aluno.ifce.edu.br) | [github.com/AlissonSco](https://github.com/AlissonSco) |
+| 🧑‍🔬 **Willyam Andrade** | Testador / QA | [lucas.fernandes@technova.com](mailto:lucas.fernandes@technova.com) | [github.com/willyamandrade](https://github.com/willyamandrade) |
 
 ---
 
