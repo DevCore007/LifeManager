@@ -38,8 +38,10 @@ Criar uma aplicação modular, reutilizável e de fácil manutenção, que simul
 |-------------|------------|
 | 💻 **Java** | Linguagem de programação principal |
 | 🧰 **Git & GitHub** | Controle de versão e colaboração |
-| 🧪 **MySQL Workbench / NetBeans / Figma** | Testes automatizados |
-| 📦 **Maven / Gradle** | Gerenciamento de dependências |
+| 💻 **Apache NetBeans** | IDE (Ambiente de Desenvolvimento Integrado) |
+| 🧪 **MySQL Workbench** | Banco de dados |
+| 🎨 **Figma** | Design |
+| 📦 **Apache Ant** | Gerenciamento de dependências |
 
 ---
 
