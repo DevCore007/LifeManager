@@ -4,7 +4,9 @@
 
 ## Ícones da Tela de Login
 
+![](./Logotipo_tecnologia_geométrico_m.png)
 ![](./user-alt-1-svgrepo-com%20(2).png)
+![](./padlock-svgrepo-com%20(1).png)
 ![](./limpar-limpo.png)
 ![](./verificado%20(2).png)
 
@@ -16,7 +18,6 @@
 ## Ícones da Calculadora
 
 ![](./calculadora%20(2)%20(1).png)
-![](./calculadora%20(1)%20(1).png)
 ![](zero.png)
 ![](um.png)
 ![](./numero-2%20(1).png)
@@ -34,4 +35,6 @@
 ![](./multiplicacao.png)
 ![](./divisao.png)
 ![](./por-cento%20(1).png)
-![](./simbolo-igual%20(1).png)
+![](./simbolo-igual%20(1).png) 
+![](./sun%20(1).png)
+![](./moon%20(1).png    )
