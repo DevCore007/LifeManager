@@ -9,11 +9,11 @@ Somos uma equipe apaixonada por tecnologia e inovação, desenvolvendo soluçõe
 
 | 🧑 Integrante | 💼 Função | 📧 E-mail | 🐙 GitHub |
 |:--------------|:----------|:-----------|:------------|
-|  **Arthur Herbster** | Líder do Projeto / Arquiteto de Software | [vogel.herbster09@aluno.ifce.edu.br](vogel.herbster09@aluno.ifce.edu.br) | [github.com/HerbsterDev](https://github.com/HerbsterDev) |
-|  **Wagner Colares** | Desenvolvedora Back-End | [luizwagner169@gmail.com](luizwagner169@gmail.com) | [github.com/colarin](https://github.com/colarin) |
-| **José Satiro** | Desenvolvedor Front-End / UI Designer | [satirojose492@gmail.com](satirojose492@gmail.com) | [github.com/SatiroDev](https://github.com/SatiroDev) |
-|  **Alisson Sousa** | Analista de Sistemas | [sousa.alisson07@aluno.ifce.edu.br](sousa.alisson07@aluno.ifce.edu.br) | [github.com/AlissonSco](https://github.com/AlissonSco) |
-|  **Willyam Andrade** | Testador / QA | [andrade.medeiros10@aluno.ifce.edu.br](andrade.medeiros10@aluno.ifce.edu.br) | [github.com/willyamandrade](https://github.com/willyamandrade) |
+|  **Arthur Herbster** |  Desenvolvedor Full-Stack | [vogel.herbster09@aluno.ifce.edu.br](vogel.herbster09@aluno.ifce.edu.br) | [github.com/HerbsterDev](https://github.com/HerbsterDev) |
+|  **Wagner Colares** | Desenvolvedor Back-End | [luizwagner169@gmail.com](luizwagner169@gmail.com) | [github.com/colarin](https://github.com/colarin) |
+| **José Satiro** | Desenvolvedor Full-Stack | [satirojose492@gmail.com](satirojose492@gmail.com) | [github.com/SatiroDev](https://github.com/SatiroDev) |
+|  **Alisson Sousa** | Desenvolvedor Back-End | [sousa.alisson07@aluno.ifce.edu.br](sousa.alisson07@aluno.ifce.edu.br) | [github.com/AlissonSco](https://github.com/AlissonSco) |
+|  **Willyam Andrade** | Desenvolvedor Back-End | [andrade.medeiros10@aluno.ifce.edu.br](andrade.medeiros10@aluno.ifce.edu.br) | [github.com/willyamandrade](https://github.com/willyamandrade) |
 
 ---
 
