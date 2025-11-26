@@ -11,7 +11,7 @@
 ![](./verificado%20(2).png)
 ![](./botao-excluir.png)
 
-# 📎 **Ícones da escolha de projetos**
+## 📎 **Ícones da escolha de projetos**
 
 ![](./agenda%20(5)%20(1).png)
 ![](./calculadora%20(1)%20(1).png)
