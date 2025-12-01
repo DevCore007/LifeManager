@@ -2,21 +2,44 @@
 
 🔵 O código-fonte do projeto na linguagem de programação Java.
 
-## *️⃣ Tela de Login
+## 🌍 **Inicializador do programa**
 
-* TelaLogin.java
-* TelaLogin.form
+ProjetoPoo.java
 
-* telaFeedBackLogin.java
-* telaFeedBackLogin.form
+## *️⃣ **Tela de Login**
 
-## 🔩 Escolher Projeto
+Login/
+├── telaFeedBackLogin.form
+├── telaFeedBackLogin.java
+├── TelaLogin.form
+└── TelaLogin.java
 
-* telaEscolhaProjeto.java
-* telaEscolhaProjeto.form
+## 🔩 **Escolher Projeto**
 
-## 📝 Agenda de Contatos
+EscolhaProjeto/
+├── telaEscolhaProjeto.form
+└── telaEscolhaProjeto.java
 
+## 📝 **Agenda de Contatos**
 
+AgendaContatos/
+├── dao/
+|   ├── Conexao.java <-- Estabelece a conexão entre o programa e o banco de dados
+|   └── ContatoDAO.java
+├── model
+|   └── Contato.java
+└── view
+    ├── telaAgenda.form
+    └── telaAgenda.java
 
-## ➗ Calculadora Básica
+## ➗ **Calculadora Básica**
+
+Calculadora/
+├── telaCalculadora.form
+└── telaCalculadora.java
+
+## 🌡 **Conversor de temperatura**
+
+ConversorTemperatura/
+├── telaConversorTemperatura.form
+└── telaConversorTemperatura.java

@@ -38,6 +38,10 @@ Criar uma aplicação modular, reutilizável e de fácil manutenção, que simul
 - ➗ **App de livre escolha (Calculadora básica)**
   - Uma calculadora básica capaz de realizar as quatro operações básicas e porcentagem.
 
+- 🌡 **App de livre escolha (Conversor de temperatura)**
+  - Conversão rápida entre as medidas de temperatura Celsius, Fahrenheit e Kelvin.
+
+
 ### 🧱 **Conceitos Aplicados**
 - 🧩 **Classes e Objetos:** Modelagem de entidades reais em estruturas de código.  
 - 🔒 **Encapsulamento:** Proteção dos dados internos do sistema.  
