@@ -27,19 +27,30 @@ Criar uma aplicação modular, reutilizável e de fácil manutenção, que simul
 
 - 🔐 **Sistema de Login**
   - Um sistema de login com usuário e senha, sem necessidade de criar uma conta.
+  - Possibilidade de redefinir os campos de login e senha, habilitar e desabilitar a visibilidade da senha.
+  - Alternância entre modo claro e escuro.
   - **Usuário:** root **| Senha:** toor
  
 - 📎 **Escolha de projetos**
-  - Parte do software em que se deve escolher qual programa executar: *agenda de contatos ou calculadora*.
+  - Parte do software em que se deve escolher qual programa executar: *agenda de contatos, calculadora ou conversor de temperatura*.
+  - Alternância entre modo claro e escuro.
 
 - 📝 **Agenda de Contatos CRUD (Java Swing + MySQL)**
-  - Uma agenda de contatos com capacidade de *criação, leitura, alteração e deleção de contatos*. Possui integração com um banco de dados do **MySQL**.
+  - Uma agenda de contatos com capacidade de *criação, leitura, alteração e deleção de contatos*.
+  - Dados da tabela de contato: **código identificador único, nome, endereço, telefone, e-mail e sexo**.
+  - Possui integração com um banco de dados do **MySQL**.
+  - Botão de voltar à escolha de projeto.
 
 - ➗ **App de livre escolha (Calculadora básica)**
   - Uma calculadora básica capaz de realizar as quatro operações básicas e porcentagem.
+  - Botões dos números de 0 a 9.
+  - Botão de limpar o que foi digitado e o resultado, apagar o último digito e inserir vírgula.
+  - Alternância entre modo claro e escuro e botão de voltar à escolha de projeto.
 
 - 🌡 **App de livre escolha (Conversor de temperatura)**
   - Conversão rápida entre as medidas de temperatura Celsius, Fahrenheit e Kelvin.
+  - Botão para redefinir os campos dos valores digitados e resultantes.
+  - Alternância entre modo claro e escuro e botão de voltar à escolha de projeto.
 
 
 ### 🧱 **Conceitos Aplicados**
@@ -64,7 +75,8 @@ Criar uma aplicação modular, reutilizável e de fácil manutenção, que simul
 | 📐 **Java Swing** | Biblioteca de Interface Gráfica |
 | 🧪 **MySQL Workbench** | Banco de dados |
 | 📝 **brModelo** | Modelagem do Banco de dados |
-| 🎨 **Figma & Canva** | Design |
+| 🎨 **Figma & Canva** | Layout & Design |
+| 🎨 **Canva** | Apresentação de slides |
 | 📦 **Apache Ant** | Gerenciamento de dependências |
 
 ---
