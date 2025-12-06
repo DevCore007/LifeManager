@@ -9,7 +9,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author José Satiro
+ * @author Arthur Herbster
  */
 public class telaConversorTemperatura extends javax.swing.JFrame {
     
